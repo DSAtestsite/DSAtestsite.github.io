@@ -20,7 +20,7 @@ title                    : "Metro DC Democratic Socialists of America"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Metro DC Democratic Socialists of America"
-description              : "An amazing website."
+description              : "Website for the DC chapter of the Democratic Socialists of America."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
