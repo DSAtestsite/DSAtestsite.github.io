@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Metro DC Democratic Socialists of America"
+  name             : "The Washington Socialist"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The DC chapter of the Democratic Socialists of America."
+  bio              : ""
   location         : "District of Columbia"
   email            :
   links:
