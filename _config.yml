@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Metro DC Democratic Socialists of America"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Metro DC Democratic Socialists of America"
+name                     : "Is this the name variable"
 description              : "Website for the DC chapter of the Democratic Socialists of America."
 url                      : "https://dsatestsite.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
