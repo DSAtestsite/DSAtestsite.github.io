@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Us"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "Get Involved"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "The Washington Socialist"
