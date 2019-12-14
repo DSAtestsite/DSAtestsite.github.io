@@ -66,3 +66,5 @@ A: The Socialist publishes monthly, generally on the first of the month (except 
 A: We prefer articles from DSA members, but non-members may submit articles so long as they address concerns of interest to our members.
 
 If you still have questions, please send them to thesocialist@mdcdsa.org with “question about the newsletter” in the subject line.
+
+THE WASHINGTON SOCIALIST IS THE NEWSLETTER AND EDITORIAL PUBLICATION OF METRO DC DSA. THE VIEWS AND OPINIONS EXPRESSED HERE MAY NOT REFLECT THOSE OF THE CHAPTER, AND PUBLICATION OF ANY INFORMATION SHOULD NOT BE CONSIDERED AN ENDORSEMENT. FOR OUR CHAPTER'S OFFICIAL STATEMENTS, PLEASE VISIT THE STATEMENTS SECTION OF OUR MAIN SITE.
