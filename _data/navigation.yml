@@ -12,3 +12,4 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Contact Us"
     url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "<i class='fas fa-search'></i>"
