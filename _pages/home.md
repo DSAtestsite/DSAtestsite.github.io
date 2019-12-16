@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "Download"
+    - label: "Learn more about us"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro:
