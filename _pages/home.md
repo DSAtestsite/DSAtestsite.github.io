@@ -20,8 +20,8 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Upcoming Events"
+    excerpt: "Happy Hours, Working Group meetings, Socialist Night Schools - look through our upcoming events."
     url: "https://www.meetup.com/mdcdsa/events/"
     btn_label: "Upcoming Events"
     btn_class: "btn--primary"
