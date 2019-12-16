@@ -29,8 +29,11 @@ feature_row:
     btn_label: "Upcoming Events"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "What is Democratic Socialism?"
+    excerpt: "Democratic socialists advocate for a radical restructuring of our economic and political systems to value people over profits."
+    url: "/structure-and-campaigns"
+    btn_label: "Upcoming Events"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
