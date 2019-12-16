@@ -18,6 +18,8 @@ feature_row:
     title: "Get involved!"
     excerpt: "Learn how to get involved with our campaigns and other actions."
     url: /structure-and-campaigns
+    btn_label: "Get Involved"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
