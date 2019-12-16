@@ -11,7 +11,7 @@ header:
       url: "/about"
 excerpt: "We organize to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism."
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'DSA’s membership is currently the largest in our history, with approximately 50,000 national members and growing every day. Our organization is ever-evolving to confront the challenges presented by capitalism, fascism, and systemic inequality.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
