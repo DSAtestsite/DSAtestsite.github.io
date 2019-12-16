@@ -9,6 +9,6 @@ main:
   - title: "Join"
     url: https://act.dsausa.org/donate/membership/
   - title: "Donate"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /donate
   - title: "Contact Us"
     url: /contact-us
