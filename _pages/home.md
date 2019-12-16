@@ -31,8 +31,8 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "What is Democratic Socialism?"
     excerpt: "Democratic socialists advocate for a radical restructuring of our economic and political systems to value people over profits."
-    url: "/structure-and-campaigns"
-    btn_label: "Upcoming Events"
+    url: "http://dsausa.org/"
+    btn_label: "Learn more"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
