@@ -7,14 +7,23 @@ layout: single
 toc: true
 ---
 
-Facebook:@MetroDCDSA
-Twitter:@mdc_dsa
-Email:info@mdcdsa.org
-Media inquiries:media@mdcdsa.org
-Postal Mail:
+##Facebook
+@MetroDCDSA
+
+##Twitter
+@mdc_dsa
+
+##Email
+info@mdcdsa.org
+
+##Media inquiries
+media@mdcdsa.org
+
+##Postal Mail:
 Metro DC DSA
 1301 Connecticut Ave. NW
 Suite 600
 Washington, DC 20036
 
-Phone:(202) 780-6430
+##Phone
+(202) 780-6430
