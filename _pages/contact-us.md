@@ -19,7 +19,7 @@ info@mdcdsa.org
 ## Media inquiries
 media@mdcdsa.org
 
-## Postal Mail:
+## Postal Mail
 Metro DC DSA
 
 1301 Connecticut Ave. NW
