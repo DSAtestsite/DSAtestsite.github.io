@@ -1,5 +1,5 @@
 ---
-permalink: /donate/
+permalink: /join-donate/
 title: "Donate"
 layout: single
 toc: true
