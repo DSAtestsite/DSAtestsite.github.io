@@ -9,8 +9,6 @@ main:
   - title: "Member Resources"
     url: /member-resources
   - title: "Join/Donate"
-    url: https://act.dsausa.org/donate/membership/
-  - title: "Donate"
     url: /donate
   - title: "Contact Us"
     url: /contact-us

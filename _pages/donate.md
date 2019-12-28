@@ -11,3 +11,5 @@ Metro DC DSA is funded by dues-splitting with the national Democratic Socialists
 Every dollar you donate goes to support the organizing efforts of Metro DC DSA. It helps us print chapter lit (posters, flyers, and zines), cover the cost of meeting room rental, put on trainings and events, and keep our members connected to each other.
 
 Please note that because we are a 501(c)(4) organization, your donation is not tax deductible.
+
+Join here: https://act.dsausa.org/donate/membership/
