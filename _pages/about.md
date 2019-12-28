@@ -16,7 +16,7 @@ layouts_gallery:
 # last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-## About MEtro DC DSA
+## About Metro DC DSA
 Metro DC Democratic Socialists of America is a chapter of the national Democratic Socialists of America, the largest socialist organization in the United States. Since DSA’s 2016 We Need Bernie campaign, we have grown into a potent force for change both nationally and locally in the DC-Maryland-Virginia area.
 
 We organize to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism. We also invest in creating a space to learn, grow, and build solidarity, by putting on political education, internal organizing, and social events. Check out our Events Calendar to find upcoming ways to get involved, learn more about the work we do, and join DSA to help build a better future for us all.
