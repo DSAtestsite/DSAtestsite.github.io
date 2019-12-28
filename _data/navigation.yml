@@ -6,7 +6,9 @@ main:
     url: /structure-and-campaigns
   - title: "The Washington Socialist"
     url: /washington-socialist/
-  - title: "Join"
+  - title: "Member Resources"
+    url: /member-resources
+  - title: "Join/Donate"
     url: https://act.dsausa.org/donate/membership/
   - title: "Donate"
     url: /donate
