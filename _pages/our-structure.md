@@ -2,6 +2,7 @@
 permalink: /our-structure/
 title: "Our Structure"
 layout: single
+toc: true
 ---
 ## Steering Committee
 
