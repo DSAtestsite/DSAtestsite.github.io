@@ -16,4 +16,4 @@ toc: true
 
 ## Chapter Structure map
 
-For a more detailed breakdown, see <a href=/structure-and-campaigns/>this page</a>.
+For a more detailed breakdown, see <a href="/structure-and-campaigns/">this page</a>.
