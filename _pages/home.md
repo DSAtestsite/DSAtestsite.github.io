@@ -15,7 +15,7 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Get involved!"
+    title: "Get involved"
     excerpt: "Learn how to get involved with our campaigns and other actions."
     url: /structure-and-campaigns
     btn_label: "Get Involved"
@@ -23,15 +23,15 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Upcoming Events"
+    title: "Organize with us"
     excerpt: "Happy Hours, Working Group meetings, Socialist Night Schools - look through our upcoming events."
     url: "https://www.meetup.com/mdcdsa/events/"
     btn_label: "Upcoming Events"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "What is Democratic Socialism?"
-    excerpt: "Democratic socialists advocate for a radical restructuring of our economic and political systems to value people over profits."
-    url: "http://dsausa.org/"
+    title: "Our Endorsements"
+    excerpt: ""
+    url: /endorsements
     btn_label: "Learn more"
     btn_class: "btn--primary"
 feature_row2:
