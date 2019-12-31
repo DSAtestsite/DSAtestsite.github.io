@@ -13,7 +13,7 @@ feature_row2:
     title: "Janeese Lewis George"
     excerpt: 'We are proud to endorse a third-generation Washingtonian who has lived the issues her constituents are facing.'
     url: "#test-link"
-    btn_label: "Read our official endorsement here."
+    btn_label: "Read our official endorsement here"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
