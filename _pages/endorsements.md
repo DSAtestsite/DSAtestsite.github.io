@@ -3,7 +3,7 @@ permalink: /endorsements/
 title: "Endorsements"
 layout: splash
 # toc: true
-feature_row:
+endorsement_1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Get involved"
@@ -12,4 +12,4 @@ feature_row:
     btn_label: "Get Involved"
     btn_class: "btn--primary"
 ---
-{% include feature_row type="left" %}
+{% include endorsement_1 type="left" %}
