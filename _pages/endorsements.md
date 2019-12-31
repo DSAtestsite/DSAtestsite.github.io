@@ -1,7 +1,7 @@
 ---
 permalink: /endorsements/
 title: "Endorsements"
-layout: splash
+layout: single
 # toc: true
 endorsement_1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
