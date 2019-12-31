@@ -2,7 +2,7 @@
 permalink: /endorsements/
 title: "Endorsements"
 layout: single
-toc: true
+# toc: true
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
