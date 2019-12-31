@@ -37,10 +37,10 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'Placeholder text.'
+    title: "Latest News"
+    excerpt: 'Washington Socialist and chapter statements can be found here.'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Latest Updates and News"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
