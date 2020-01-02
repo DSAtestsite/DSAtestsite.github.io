@@ -25,7 +25,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Organize with us"
     excerpt: "Happy Hours, Working Group meetings, Socialist Night Schools - look through our upcoming events."
-    url: "https://www.meetup.com/mdcdsa/events/"
+    url: /organize-with-us/
     btn_label: "Upcoming Events"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
