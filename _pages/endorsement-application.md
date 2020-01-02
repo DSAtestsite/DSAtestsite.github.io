@@ -23,14 +23,23 @@ During this time, any member, campaign-based working group, caucus, or branch, i
 Based on the process described above, our chapter will be observing the following timelines for endorsement during the 2019 campaign cycle. For candidates who submit questionnaires by 5:00PM Eastern Time on:
 
 January 11, 2019: Chapter votes to endorse no later than February 13. Candidate notified of endorsement results on February 14.   
+
 February 8, 2019: Vote by March 20. Notification by March 21.   
+
 March 15, 2019: Vote by April 17. Notification by April 18.  
+
 April 12, 2019: Vote by May 22. Notification by May 23.
+
 May 17, 2019: Vote by June 12. Notification by June 13.    
+
 June 7, 2019: Vote by July 17. Notification by July 18.   
+
 July 12, 2019: Vote by August 14. Notification by August 15.   
+
 August 9, 2019: Vote by September 11. Notification by September 12.
+
 September 6, 2019: Vote by October 16. Notification by October 17.    
+
 If a candidate misses the questionnaire submission deadline, then the candidate’s endorsement process will move to the next month. For instance, if a candidate misses the endorsement deadline on February 8, 2019, then the candidate’s new questionnaire deadline will be March 15, 2019, with an endorsement vote completed by April 17.
 
 Questions?
