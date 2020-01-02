@@ -43,7 +43,7 @@ feature_row2:
     btn_label: "Latest Updates and News"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/unsplash-image-3.jpg
     alt: "placeholder image 2"
     title: "Upcoming Events"
     excerpt: 'Happy Hours, socials, and other upcoming events can be found through this link.'
