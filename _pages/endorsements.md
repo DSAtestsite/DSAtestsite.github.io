@@ -18,7 +18,7 @@ feature_row2:
 apply:
   - title: "Apply for an endorsement"
     excerpt: 'Please click the button below for more information about applying for an endorsement.'
-    url: "#test-link"
+    url: /endorsements/application/
     btn_label: "Application information here"
     btn_class: "btn--primary"
 ---
