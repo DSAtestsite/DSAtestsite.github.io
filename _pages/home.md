@@ -51,7 +51,7 @@ feature_row3:
     btn_label: "Upcoming events"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/unsplash-image-4.jpg
     alt: "placeholder image 2"
     title: "Social Media"
     excerpt: 'Twitter, Facebook, and other social media pages can be found here.'
