@@ -35,7 +35,7 @@ feature_row:
     btn_label: "Learn more"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/unsplash-image-2.jpg
     alt: "placeholder image 2"
     title: "Latest News"
     excerpt: 'Washington Socialist and chapter statements can be found here.'
