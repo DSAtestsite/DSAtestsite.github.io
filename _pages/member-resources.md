@@ -1,6 +1,6 @@
 ---
 permalink: /member-resources/
-title: "About Us"
+title: "Member Resources"
 layout: single
 toc: true
 ---
@@ -11,12 +11,15 @@ Link to site
 
 ## Harassment and Grievance Policy
 <a href="https://d3n8a8pro7vhmx.cloudfront.net/dsausa/mailings/1795/attachments/original/DSA_Harassment_Resolution.pdf?1511384152">Democratic Socialists of America: Harassment Policy</a>
+
 Written by The Harassment Working Group, passed as Resolution 33 at the 2017 DSA Convention on Aug. 4, 2017
 
 <a href="https://docs.google.com/document/d/1mvXHsRtPCkuhcpl7oLxCP99SE629eENZEVx58JAMoNY/edit">On Harassment Policy and Grievance Procedure</a>
-passed as Resolution 2 at the 2017 MDC DSA Convention on Oct. 7, 2017
+
+Passed as Resolution 2 at the 2017 MDC DSA Convention on Oct. 7, 2017
 
 <a href="https://d3n8a8pro7vhmx.cloudfront.net/dsausa/mailings/1795/attachments/original/Dear_Comrade_Letter.pdf?1511384153">“Dear Comrade Letter” implementation guidance and resources</a>
+
 Written by The Harassment Working Group, last updated Nov. 22, 2017
 
 DSA is committed to creating a space that is welcoming and inclusive to members of all genders, races, and classes. This policy provides guidelines to ensure that everyone is able to organize without fear of harassment, abuse, or harm.
