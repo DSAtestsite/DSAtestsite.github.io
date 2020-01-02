@@ -2,33 +2,29 @@
 permalink: /member-resources/
 title: "About Us"
 layout: single
-# excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-# last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
+## Red Desk
+Explainer
 
-Metro DC Democratic Socialists of America is a chapter of the national Democratic Socialists of America, the largest socialist organization in the United States. Since DSA’s 2016 We Need Bernie campaign, we have grown into a potent force for change both nationally and locally in the DC-Maryland-Virginia area.
+Link to site
 
-We organize to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism. We also invest in creating a space to learn, grow, and build solidarity, by putting on political education, internal organizing, and social events. Check out our Events Calendar to find upcoming ways to get involved, learn more about the work we do, and join DSA to help build a better future for us all.
+## Harassment and Grievance Policy
+<a href="https://d3n8a8pro7vhmx.cloudfront.net/dsausa/mailings/1795/attachments/original/DSA_Harassment_Resolution.pdf?1511384152">Democratic Socialists of America: Harassment Policy</a>
+Written by The Harassment Working Group, passed as Resolution 33 at the 2017 DSA Convention on Aug. 4, 2017
 
-## A Brief History of the DSA
-Democratic Socialists of America has its roots in the New Left movement of the 1960s. It arose from the Socialist Party of America and the New American Movement, under the leadership of Left activist Michael Harrington, who formed the Democratic Socialist Organizing Committee (DSOC). The Democratic Socialist Organizing Committee emerged from the Socialist Party in the 1970s, from a left riven by the Vietnam War.
+<a href="https://docs.google.com/document/d/1mvXHsRtPCkuhcpl7oLxCP99SE629eENZEVx58JAMoNY/edit">On Harassment Policy and Grievance Procedure</a>
+passed as Resolution 2 at the 2017 MDC DSA Convention on Oct. 7, 2017
 
-Harrington, author of The Other America, led DSOC as it joined with other left organizations to become DSA in 1980. Michael Harrington and socialist feminist author Barbara Ehrenreich served as DSA’s first co-chairs.
+<a href="https://d3n8a8pro7vhmx.cloudfront.net/dsausa/mailings/1795/attachments/original/Dear_Comrade_Letter.pdf?1511384153">“Dear Comrade Letter” implementation guidance and resources</a>
+Written by The Harassment Working Group, last updated Nov. 22, 2017
 
-DSA’s membership is currently the largest in our history, with approximately 50,000 national members and growing every day. Our organization is ever-evolving to confront the challenges presented by capitalism, fascism, and systemic inequality.
+DSA is committed to creating a space that is welcoming and inclusive to members of all genders, races, and classes. This policy provides guidelines to ensure that everyone is able to organize without fear of harassment, abuse, or harm.
 
-A comprehensive account of our organization’s history is available the national DSA website.
+To file a grievance, contact a Metro DC DSA harassment grievance officer (HGO). Our two HGOs can be contacted via an email address that functions as a confidential reporting “hotline” and is only accessible by the HGOs: hgo@mdcdsa.org. Please include your contact information, the names of the parties involved, and a description of the incident(s) you would like to report.
 
-## Why Socialism?
-We advocate for democratic socialism, a radical restructuring of our economic and political systems to value people over profits. Rather than our current economy, which is controlled by the wealthy few for their own benefit, we envision an economy that is democratically controlled. By working toward change that rejects heterosexist, patriarchal, imperialist capitalism, we believe that we can create a free, democratic, humane society for us all.
+The HGO(s) will conduct interviews and any other necessary investigation, determine if a report is credible, and make any recommendation of appropriate disciplinary action to the Steering Committee, in writing, within 30 days. (Per a Steering Committee vote on Aug. 20, 2018, if any Steering member either files or is the subject of a grievance, they will recuse themselves from any HGO communication to Steering regarding said grievance.)
+
+In order to ensure an effective alternative option for anyone who does not have full faith and confidence that their report will be quickly and correctly resolved through the chapter’s HGO(s), <a href="https://www.dsausa.org/june_updates_2018">National has also designated an HGO</a>. To file a grievance with National, use <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4Ra7UifhPsSYvxMgE6TvBYzXf8OVyBuzt9byKyxYgUYXUEA/viewform">this form</a>.
+
+Resolution 33 prohibits retaliation against any member for filing a grievance.
