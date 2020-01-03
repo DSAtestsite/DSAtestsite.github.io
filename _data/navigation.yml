@@ -19,6 +19,8 @@ main:
         url: /organize-with-us
       - title: "Endorsements"
         url: /endorsements
+      - title: "Structure and Campaigns"
+        url: /structure-and-campaigns
   - title: "The Washington Socialist"
     url: /washington-socialist/
       - title: "Submissions"
