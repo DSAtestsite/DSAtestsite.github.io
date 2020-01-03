@@ -3,14 +3,34 @@ main:
   - title: "About Us"
     url: /about-us/
     sublinks:
-      - title: "Test"
-        url: /contact-us
+      - title: "Our Structure"
+        url: /our-structure
+      - title: "Bylaws"
+        url: /our-bylaws
+      - title: "Our Structure"
+        url: /our-structure
+      - title: "Public Statements"
+        url: /public-statements
+      - title: "Minutes and Historicals"
+        url: /minutes-and-historicals
   - title: "Get Involved"
     url: /structure-and-campaigns
+      - title: "Organize With Us"
+        url: /organize-with-us
+      - title: "Endorsements"
+        url: /endorsements
   - title: "The Washington Socialist"
     url: /washington-socialist/
+      - title: "Submissions"
+        url: /washington-socialist
+      - title: "Subscribe"
+        url: /washington-socialist/subscribe
   - title: "Member Resources"
     url: /member-resources
+      - title: "Red Desk"
+        url: /red-desk
+      - title: "Harrassment and Grievance Policy"
+        url: /harrassment-grievance-policy
   - title: "Join/Donate"
     url: /join-donate
   - title: "Contact Us"
