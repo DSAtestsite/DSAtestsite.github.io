@@ -15,24 +15,10 @@ main:
         url: /minutes-and-historicals
   - title: "Get Involved"
     url: /structure-and-campaigns
-      - title: "Organize With Us"
-        url: /organize-with-us
-      - title: "Endorsements"
-        url: /endorsements
-      - title: "Structure and Campaigns"
-        url: /structure-and-campaigns
   - title: "The Washington Socialist"
     url: /washington-socialist/
-      - title: "Submissions"
-        url: /washington-socialist
-      - title: "Subscribe"
-        url: /washington-socialist/subscribe
   - title: "Member Resources"
     url: /member-resources
-      - title: "Red Desk"
-        url: /red-desk
-      - title: "Harrassment and Grievance Policy"
-        url: /harrassment-grievance-policy
   - title: "Join/Donate"
     url: /join-donate
   - title: "Contact Us"
