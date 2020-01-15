@@ -140,7 +140,7 @@ footer:
       url: "https://twitter.com/mdc_dsa?lang=en"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/MetroDCDSA/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
