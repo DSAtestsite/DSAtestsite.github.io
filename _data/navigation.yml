@@ -1,8 +1,9 @@
 # main links
 main:
   - title: "About Us"
-    url: /about-us/
     sublinks:
+      - title: "About Metro DC DSA"
+        url: /about-us/
       - title: "Our Structure"
         url: /our-structure
       - title: "Bylaws"
@@ -14,8 +15,9 @@ main:
       - title: "Minutes and Historicals"
         url: /minutes-and-historicals
   - title: "Get Involved"
-    url: /structure-and-campaigns
     sublinks:
+      - title: "Structure and Campaigns"
+        url: /structure-and-campaigns
       - title: "Organize With Us"
         url: /organize-with-us
       - title: "Endorsements"
