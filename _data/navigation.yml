@@ -31,7 +31,11 @@ main:
       - title: "Subscribe*"
         url: /
   - title: "Member Resources"
-    url: /member-resources
+    sublinks:
+      - title: "Red Desk"
+        url: /member-resources
+      - title: "Harassment and Grievance Policy*"
+        url: /harassment-and-grievance-policy  
   - title: "Join/Donate"
     url: /join-donate
   - title: "Contact Us"
