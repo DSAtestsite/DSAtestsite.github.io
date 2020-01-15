@@ -25,6 +25,7 @@ main:
       - title: "Calendar"
         url: "https://www.meetup.com/mdcdsa/"
   - title: "The Washington Socialist"
+    sublinks:
       - title: "Submissions"
         url: /washington-socialist
       - title: "Subscribe*"
