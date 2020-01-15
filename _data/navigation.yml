@@ -35,8 +35,8 @@ main:
       - title: "Red Desk"
         url: /member-resources
       - title: "Harassment and Grievance Policy*"
-        url: /harassment-and-grievance-policy  
+        url: /harassment-and-grievance-policy
   - title: "Join/Donate"
     url: /join-donate
-  - title: "Contact Us"
+  - title: "Contact Us*"
     url: /contact-us
