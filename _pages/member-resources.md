@@ -1,6 +1,6 @@
 ---
 permalink: /member-resources/
-title: "Member Resources"
+title: "Red Desk"
 layout: single
 toc: true
 ---
