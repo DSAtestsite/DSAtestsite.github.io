@@ -10,9 +10,9 @@ main:
         url: /our-bylaws
       - title: "Our Structure"
         url: /our-structure
-      - title: "Public Statements"
+      - title: "Public Statements*"
         url: /public-statements
-      - title: "Minutes and Historicals"
+      - title: "Minutes and Historicals*"
         url: /minutes-and-historicals
   - title: "Get Involved"
     sublinks:
@@ -25,7 +25,10 @@ main:
       - title: "Calendar"
         url: "https://www.meetup.com/mdcdsa/"
   - title: "The Washington Socialist"
-    url: /washington-socialist/
+      - title: "Submissions"
+        url: /washington-socialist
+      - title: "Subscribe*"
+        url: /
   - title: "Member Resources"
     url: /member-resources
   - title: "Join/Donate"
