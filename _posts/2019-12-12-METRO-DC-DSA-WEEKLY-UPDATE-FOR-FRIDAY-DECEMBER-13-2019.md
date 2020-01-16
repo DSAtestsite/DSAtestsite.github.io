@@ -1,7 +1,7 @@
 ---
 title: "Metro DC DSA Chapter update"
 categories:
-  - Chapter Update
+  - Washington Socialist
 tags:
   - Update
 author: Brendan Greenlee

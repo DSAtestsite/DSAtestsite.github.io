@@ -11,16 +11,16 @@ Woody Woodruff:
   name        : "Woody Woodruff"
   bio         : "Washington Socialist Publishing Director"
   avatar      : "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/extravagantman"
 
 Andy Feeney:
   name        : "Andy Feeney"
-  bio         : "Saving the world each weekday at a time"
+  bio         : "Regular contributor on environment and Marxism; member MDC DSA Ecosocialism Caucus."
   avatar      : "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/extravagantman"
