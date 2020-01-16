@@ -14,10 +14,10 @@ toc: true
 @mdc_dsa
 
 ## Email
-info@mdcdsa.org
+<a href="mailto:https://mdcdsa.org/">info@mdcdsa.org</a>
 
 ## Media inquiries
-media@mdcdsa.org
+<a href"mailto:media@mdcdsa.org">media@mdcdsa.org</a>
 
 ## Postal Mail
 Metro DC DSA
@@ -29,4 +29,4 @@ Suite 600
 Washington, DC 20036
 
 ## Phone
-(202) 780-6430
+<a href="tel:202-780-6430">(202)-780-6430</a>
