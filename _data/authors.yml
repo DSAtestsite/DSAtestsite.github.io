@@ -15,3 +15,12 @@ Woody Woodruff:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/extravagantman"
+
+Andy Feeney:
+  name        : "Andy Feeney"
+  bio         : "Saving the world each weekday at a time"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
