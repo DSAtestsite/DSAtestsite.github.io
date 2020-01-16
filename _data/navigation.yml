@@ -11,9 +11,9 @@ main:
       - title: "Our Structure"
         url: /our-structure
       - title: "Public Statements*"
-        url: /public-statements
+        url: /categories/#public-statements
       - title: "Minutes and Historicals*"
-        url: /minutes-and-historicals
+        url: /categories/#minutes-and-historicals
   - title: "Get Involved"
     sublinks:
       - title: "Structure and Campaigns"
