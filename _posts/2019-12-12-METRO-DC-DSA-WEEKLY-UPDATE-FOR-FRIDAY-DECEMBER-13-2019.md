@@ -4,6 +4,7 @@ categories:
   - Chapter Update
 tags:
   - Update
+author: Brendan Greenlee
 ---
 <p style="text-align: left;"><span style="font-size: 14pt;"><strong><em><span style="font-size: 18pt;">This weekend</span></em></strong> – <strong>TODAY</strong> (see below) is <a href="https://www.facebook.com/events/547004082766517/">Just Transition week at Fire Drill Friday</a>; SATURDAY Dec. 14, <a href="https://www.facebook.com/events/554448688448386/">Community Rally/testimony</a> vs. Amazon in Arlington; <a href="https://mdcdsa.org/wp-event/stomp-out-slumlords-anti-eviction-canvass-20/">Stomp Out Slumlords Anti-Eviction Canvass</a> ; <strong>SUNDAY</strong> Dec. 15, <a href="https://mdcdsa.org/wp-event/rent-control-working-group-meeting/">Rent Control Working Group Meeting</a> ; <a href="https://mdcdsa.org/wp-event/moco-dsa-%f0%9f%8c%b9general-branch-meeting-16/">MoCo DSA 🌹General Branch Meeting</a> ; <a href="https://mdcdsa.org/wp-event/socialist-feminism-reading-group-%f0%9f%8c%b9-35/">Socialist Feminism Reading Group 🌹</a> – and the hastily-scheduled Socialist Night School session <strong>Monday night</strong> (Dec. 16) on <a href="https://mdcdsa.org/wp-event/the-coup-in-bolivia-socialist-night-school/">the coup in Bolivia</a>.  Details at the links.</span></p>
 <p style="text-align: left;"><span style="font-size: 18pt;"><strong>CHAPTER MATTERS</strong></span></p>
