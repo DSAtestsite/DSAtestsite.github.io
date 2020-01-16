@@ -8,10 +8,10 @@ toc: true
 ---
 
 ## Facebook
-@MetroDCDSA
+<a href="https://www.facebook.com/MetroDCDSA/">@MetroDCDSA</a>
 
 ## Twitter
-@mdc_dsa
+<a href="https://twitter.com/mdc_dsa?lang=en">@mdc_dsa</a>
 
 ## Email
 <a href="mailto:https://mdcdsa.org/">info@mdcdsa.org</a>
