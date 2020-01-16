@@ -4,6 +4,7 @@ categories:
   - Chapter Update
 tags:
   - Update
+author: Brendan Greenlee
 ---
 s-with-dctu/">Stomp Out Slumlords Know Your Rights Canvass with DCTU</a></span></p>
 <p style="text-align: left;"><span style="font-size: 14pt;"><em>L&#8217;Enfant Plaza Metro Station, 600 Maryland Ave SW, Washington, DC 20024</em></span></p>
