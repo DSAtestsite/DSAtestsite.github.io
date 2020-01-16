@@ -1,3 +1,12 @@
+Metro DC DSA:
+  name        : "Metro DC DSA"
+  bio         : "Metro DC chapter of the Democratic Socialists of America"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
 Brendan Greenlee:
   name        : "Brendan Greenlee"
   bio         : "National Tech Tools Liaison"
