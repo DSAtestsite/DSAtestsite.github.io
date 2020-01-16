@@ -17,7 +17,7 @@ toc: true
 <a href="mailto:https://mdcdsa.org/">info@mdcdsa.org</a>
 
 ## Media inquiries
-<a href"mailto:media@mdcdsa.org">media@mdcdsa.org</a>
+<a href="mailto:media@mdcdsa.org">media@mdcdsa.org</a>
 
 ## Postal Mail
 Metro DC DSA
