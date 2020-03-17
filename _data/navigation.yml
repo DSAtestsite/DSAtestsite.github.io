@@ -36,6 +36,8 @@ main:
         url: /member-resources
       - title: "Harassment and Grievance Policy"
         url: /harassment-and-grievance-policy
+      - title: "COVID-19 Resources"
+        url: /covid-info
   - title: "Join/Donate"
     url: /join-donate
   - title: "Contact Us*"
