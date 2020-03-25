@@ -1,6 +1,6 @@
 ---
 title: "Metro DC DSA Newsletter Archive"
 permalink: /newsletters/
-layout: collection
+layout: category
 author_profile: False
 ---
