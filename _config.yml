@@ -305,9 +305,9 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: splash
       author_profile: false
-      share: true
+      share: false
   # _month1
   - scope:
       path: ""
