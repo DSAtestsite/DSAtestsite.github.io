@@ -302,6 +302,6 @@ defaults:
        share: true      
 
 collections:
-  Washington Socialist - April 2020:
+ - Washington Socialist - April 2020:
     output: true
-      permalink: /washington-socialist/April2020
+      permalink: /washington-socialist/april2020
