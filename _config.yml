@@ -280,9 +280,9 @@ compress_html:
 
 # Collections
 collections:
- 2020April:
-  output: true
-  permalink: /washingtonsocialist/:collection/:path/
+ portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -297,13 +297,13 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _2020April
+  # _portfolio
   - scope:
       path: ""
-      type: 2020April
+      type: portfolio
     values:
-       layout: single
-       author_profile: true
-       share: true
+      layout: single
+      author_profile: false
+      share: true
 
 
