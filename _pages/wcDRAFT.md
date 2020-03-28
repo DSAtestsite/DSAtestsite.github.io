@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-excerpt: ""
+excerpt: "build.3:07.3.28"
 intro:
   - excerpt: "Metro DC DSA's outlet for opinions, essays, local coverage, and analysis."
 feature_row:
