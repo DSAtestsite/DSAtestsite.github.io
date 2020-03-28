@@ -278,6 +278,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+ - Washington Socialist - April 2020:
+    collections_dir: /washingtonsocialist/_april2020
+    output: true
 
 # Defaults
 defaults:
@@ -295,13 +299,9 @@ defaults:
   # _Washington Socialist - April 2020
   - scope:
       path: ""
-      type: portfolio
+      type: Washington Socialist - April 2020
     values:
        layout: single
-       author_profile: true
-       share: true      
+       author_profile: true      
 
-collections:
- - Washington Socialist - April 2020:
-    collections_dir: /washingtonsocialist/april2020/
-    output: true
+
