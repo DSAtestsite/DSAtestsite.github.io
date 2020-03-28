@@ -285,7 +285,7 @@ collections:
     permalink: /:collection/:path/
  month1:
     output: true
-    permalink: /_portfolio/:collection/:path/
+    permalink: /_portfolio/_month1/:path/
 
 # Defaults
 defaults:
