@@ -279,9 +279,9 @@ compress_html:
     envs: development
 
 collections:
- - Washington Socialist - April 2020:
-    collections_dir: /washingtonsocialist/_april2020
-    output: true
+ Washington Socialist - April 2020:
+  output: true
+  permalink: /washington_socialist/april2020/
 
 # Defaults
 defaults:
