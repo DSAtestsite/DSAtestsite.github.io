@@ -303,6 +303,6 @@ defaults:
 
 collections:
  - Washington Socialist - April 2020:
-    collections_dir: washingtonsocialist/april2020/
+    collections_dir: /washingtonsocialist/april2020/
     output: true
       permalink: /washington-socialist/april2020
