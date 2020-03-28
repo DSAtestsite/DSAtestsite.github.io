@@ -280,7 +280,7 @@ compress_html:
 
 # Collections
 collections:
- 2020_April:
+ 2020April:
   output: true
   permalink: /washingtonsocialist/:collection/:path/
 
@@ -297,10 +297,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _2020_April
+  # _2020April
   - scope:
       path: ""
-      type: 2020_April
+      type: 2020April
     values:
        layout: single
        author_profile: true
