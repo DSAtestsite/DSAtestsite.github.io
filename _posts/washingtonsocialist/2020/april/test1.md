@@ -1,5 +1,6 @@
 ---
 title: "Building Strategy for Our Movement"
+permalink: /testfolder/apr2020-test1
 categories:
   - Washington Socialist
 tags:
