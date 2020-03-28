@@ -292,7 +292,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  #_April2020
+  # _Washington Socialist - April 2020
   - scope:
       path: ""
       type: portfolio
