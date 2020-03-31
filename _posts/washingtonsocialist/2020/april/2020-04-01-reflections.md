@@ -1,13 +1,13 @@
 ---
 title: "Reflections from the Past 1985"
 header:
-  image: /assets/images/socialist banner.png
+  image: /assets/images/socialistbanner1.png
 categories:
   - Washington Socialist
 tags:
   - Article
 author: Victor Reuther
-class: wide
+classes: wide
 ---
 Labor’s present-day struggles against capital – and sometimes, amongst itself – are reflected in this 1985 Socialist interview with Victor Reuther, brother of the late United Auto Workers’ President Walter Reuther and himself a longtime UAW leader.  Reuther, being spotlighted as a recipient of DC/MD DSA’s annual (and final) Debs-Thomas Award, reflected on his long career in labor, fissures within that movement, and the need to ally labor with the larger movement for social justice.  [Victor Reuther died at age 92 in 2004].
 
