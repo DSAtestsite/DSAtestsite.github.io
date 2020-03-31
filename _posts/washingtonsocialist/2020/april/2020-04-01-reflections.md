@@ -2,6 +2,7 @@
 title: "Reflections from the Past 1985"
 header:
   image: /assets/images/april2020-banner.png
+  teaser: /assets/images/APRIL2020-Thumbnail.png
 categories:
   - Washington Socialist
 tags:
