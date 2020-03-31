@@ -4,7 +4,7 @@ header:
   image: /assets/images/april2020-banner.png
    actions:
     - label: "Back to April 2020"
-      url: "https://dsatestsite.github.io/portfolio/2020-apr/"
+    - url: "https://dsatestsite.github.io/portfolio/2020-apr/"
 categories:
   - Washington Socialist
 tags:
