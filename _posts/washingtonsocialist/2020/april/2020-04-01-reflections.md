@@ -1,7 +1,8 @@
 ---
 title: "Reflections from the Past 1985"
 header:
-  image: /assets/images/socialistbanner1.png
+  image: /assets/images/april2020-banner.png
+  url: https://dsatestsite.github.io/portfolio/2020-apr/
 categories:
   - Washington Socialist
 tags:
