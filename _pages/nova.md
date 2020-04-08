@@ -12,6 +12,16 @@ header:
 excerpt: "The Northern Virginia branch of Metro DC DSA, we organize to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism."
 intro:
   - excerpt: 'Quote Here'
+event_row:
+  - image_path: /assets/images/unsplash-image-2.jpg
+    alt: "placeholder image 2"
+    title: "Events"
+    excerpt: 'Our upcoming and previous events can be found here.'
+    url: "https://actionnetwork.org/groups/northern-virginia-mdc-dsa"
+    btn_label: "Events"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="event_row" type="left" %}
