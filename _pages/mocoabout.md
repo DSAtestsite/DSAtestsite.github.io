@@ -16,7 +16,7 @@ layouts_gallery:
 # last_modified_at: 2019-08-27T15:46:43-04:00
 toc: false
 ---
-## About Northern Montgomery County Metro DC DSA
+## About Montgomery County Metro DC DSA
 Text
 
 ## A Brief History of the MoCo branch
