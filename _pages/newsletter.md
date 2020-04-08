@@ -1,5 +1,5 @@
 ---
-permalink: /covid-info/
+permalink: /newsletter/
 title: "Metro DC DSA Coronavirus Response"
 layout: single
 # excerpt: "."
