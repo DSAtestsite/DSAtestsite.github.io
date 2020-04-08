@@ -13,6 +13,14 @@ Every dollar you donate goes to support the organizing efforts of Metro DC DSA. 
 Please note that because we are a 501(c)(4) organization, your donation is not tax deductible.
 
 Join here:
+<html>
+<body>
+
+<h1>The iframe element</h1>
+
 <iframe height=1000 width=500 src="https://act.dsausa.org/donate/membership_redesign/">
   <p>Your browser does not support iframes.</p>
 </iframe>
+
+</body>
+</html>
