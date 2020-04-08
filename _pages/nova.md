@@ -1,5 +1,5 @@
 ---
-title: "Northern Viriginia MDC DSA"
+title: "Northern Virginia MDC DSA"
 layout: splash
 permalink: /nova/
 header:
