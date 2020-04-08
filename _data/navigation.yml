@@ -4,6 +4,10 @@ main:
     sublinks:
       - title: "About Metro DC DSA"
         url: /about-us/
+      - title: "Montgomery County Branch"
+        url: /moco/
+      - title: "Northern Virginia Branch"
+        url: /nova/
       - title: "Our Structure"
         url: /our-structure
       - title: "Bylaws"
