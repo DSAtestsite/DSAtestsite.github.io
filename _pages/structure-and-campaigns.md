@@ -2,6 +2,7 @@
 permalink: /structure-and-campaigns/
 title: "Structure and Campaigns"
 layout: single
+minimal_mistakes_skin: "air"
 toc: true
 ---
 
