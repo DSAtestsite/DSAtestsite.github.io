@@ -11,7 +11,7 @@ header:
       url: "/moco/about-us"
 excerpt: "The Montgomery County branch of Metro DC DSA, we organize to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism."
 intro:
-  - excerpt: 'Quote Here'
+  - excerpt: <a href="www.mocodsa.org">Quote Here</a>
 event_row:
   - image_path: /assets/images/unsplash-image-2.jpg
     alt: "placeholder image 2"
