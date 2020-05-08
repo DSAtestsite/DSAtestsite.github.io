@@ -46,3 +46,12 @@ main:
     url: /join-donate
   - title: "Contact Us*"
     url: /contact-us
+
+test:
+  - title: "May 2020 Edition"
+    url: https://mdcdsa.org/washingtonsocialist/2020may/
+    sublinks:
+      - title: "No Jobs? No Rent! Dispatch from Alexandria"
+        url: https://mdcdsa.org/washington-socialist/no-rent/
+      - title: "COVID-19 and the Assault on Democracy"
+        url: https://mdcdsa.org/washington-socialist/democracy-assault-covid/
