@@ -5,6 +5,8 @@ categories:
 tags:
   - Essay
 author: Andy Feeney
+sidebar:
+  nav: test
 ---
 For socialists familiar with Hegel’s ideas on dialectics, a “moment” is not an isolated instant in time.  A moment is a transitional stage, an intellectual or historical pivot between one philosophical system and another.  It’s an essential step in a developmental process that Hegelians (and many Marxists) see as generating progress over time, through contradiction.
 
