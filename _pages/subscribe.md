@@ -3,8 +3,5 @@ permalink: /subscribe/
 title: "Subscribe"
 toc: false
 ---
-
-## Help support Metro DC DSA
-<iframe height="1000" width="100%" src="https://act.dsausa.org/donate/membership_redesign/">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+## Subscribe to our updates
+<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/form/metro-dc-dsa-subscribe?format=js&source=widget'></script><div id='can-form-area-metro-dc-dsa-subscribe' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
