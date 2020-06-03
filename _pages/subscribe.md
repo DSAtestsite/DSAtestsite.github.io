@@ -1,6 +1,7 @@
 ---
 permalink: /subscribe/
 title: "Subscribe"
+layout: single
 toc: false
 ---
 ## Subscribe to our updates
