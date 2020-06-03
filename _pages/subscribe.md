@@ -1,7 +1,6 @@
 ---
 permalink: /subscribe/
 title: "Subscribe"
-layout: single
 toc: false
 ---
 
