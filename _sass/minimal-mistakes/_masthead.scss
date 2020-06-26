@@ -3,7 +3,6 @@
    ========================================================================== */
 
 .masthead {
-  background-color: $dsa-red;
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
@@ -26,6 +25,7 @@
     justify-content: space-between;
     font-family: $sans-serif-narrow;
     background: $dsa-red;
+    background-color: $dsa-red;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
