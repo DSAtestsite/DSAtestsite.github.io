@@ -206,7 +206,7 @@
     height: $nav-toggle-height;
     border: 0;
     outline: none;
-    background-color: transparent;
+    background-color: #ffffff;
     cursor: pointer;
   }
 
@@ -262,7 +262,7 @@
       display: none;
       position: absolute;
       background-color: $dsa-red;
-      color: #ffffff
+      color: #ffffff;
       min-width: 160px;
       box-shadow: $box-shadow;
       z-index: 1;
@@ -271,6 +271,8 @@
 
     .dropdown-content a {
       padding: 4px 8px;
+      background-color: $dsa-red;
+      color: #ffffff;
     }
 
 
