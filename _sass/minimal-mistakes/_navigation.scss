@@ -206,7 +206,7 @@
     height: $nav-toggle-height;
     border: 0;
     outline: none;
-    background-color: #ffffff;
+    background-color: $dsa-red;
     cursor: pointer;
   }
 
@@ -238,6 +238,7 @@
         bottom: 0;
         height: 4px;
         background: $dsa-red;
+        background-color: #ffffff;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
