@@ -10,8 +10,8 @@ header:
     - label: "Learn more about us"
       url: "https://mdcdsa.org/chapterinfo/about-us"
 excerpt: >
-      <a class="btn btn--padding btn--padded">DEMOCRATIC SOCIALISTS</a>  
-      <p style="font-size:200%">OF AMERICA</p>
+      <a class="btn btn--padding btn--padded">DEMOCRATIC SOCIALISTS</a>
+      <a style="font-size:200%">OF AMERICA</a>
 intro:
   - excerpt: ""  
 feature_row:
