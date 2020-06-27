@@ -3,8 +3,7 @@ title: ""
 layout: splash
 permalink: /home/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "#BAB9B9"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "Learn more about us"
