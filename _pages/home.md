@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /home/
 header:
-  overlay_filter: "#BAB9B9"
+  overlay_filter: ".75"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "Learn more about us"
