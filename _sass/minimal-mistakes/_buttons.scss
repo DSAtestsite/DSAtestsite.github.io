@@ -40,7 +40,8 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (linkedin, $linkedin-color),
-  (padding, $dsa-red);
+  (padding, $dsa-red),
+  (blank, #fff);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
