@@ -89,6 +89,31 @@
     cursor: not-allowed;
     box-shadow: none;
   }
+  /*for title page/ */
+  &--titlepad1 {
+    font-family: $pridi;
+    font-size:200%;
+    pointer-events: none;
+    cursor: not-allowed;
+    box-shadow: none;
+    text-align: left;
+  }
+  &--titlepad2 {
+    font-family: $pridi;
+    font-size:200%;
+    pointer-events: none;
+    cursor: not-allowed;
+    box-shadow: none;
+    text-align: center;
+  }
+  &--titlepad3 {
+    font-family: $pridi;
+    font-size:200%;
+    pointer-events: none;
+    cursor: not-allowed;
+    box-shadow: none;
+    text-align: right;
+  }
 
   /* extra large button */
   &--x-large {
