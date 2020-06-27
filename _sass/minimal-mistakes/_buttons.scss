@@ -80,6 +80,13 @@
     box-shadow: none;
     opacity: 0.65;
   }
+  
+  /* for home page banner */
+  &--padded {
+    pointer-events: none;
+    cursor: not-allowed;
+    box-shadow: none;
+  }
 
   /* extra large button */
   &--x-large {
