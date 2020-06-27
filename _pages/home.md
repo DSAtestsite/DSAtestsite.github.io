@@ -1,5 +1,6 @@
 ---
-title: ""
+title: >
+  METRO DC</b>DEMOCRATIC SOCIALISTS</b> OF AMERICA
 layout: splash
 permalink: /home/
 header:
