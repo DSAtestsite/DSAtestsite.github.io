@@ -5,12 +5,9 @@ permalink: /home/
 header:
   overlay_filter: .85
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "Learn more about us"
-      url: "/about"
-excerpt: "We organize to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism."
+excerpt: ""
 intro:
-  - excerpt: 'DSA’s membership is currently the largest in our history, with approximately 50,000 national members and growing every day. Our organization is ever-evolving to confront the challenges presented by capitalism, fascism, and systemic inequality.'
+  - excerpt: ''
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -58,6 +55,12 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+# WE ORGANIZE  
+to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism.
+
+<a href="#" class="btn btn--primary">Learn more about us.</a>
+
 
 {% include feature_row id="intro" type="center" %}
 
