@@ -11,7 +11,7 @@ header:
 excerpt: >
       <a class="btn btn--blank btn--titlepad1">METRO DC</a>
       <a class="btn btn--padding btn--titlepad2">DEMOCRATIC SOCIALISTS</a>
-      <a class="btn btn--blank btn--titlepad3">OF AMERICA</a>
+      <a class="btn btn--blank btn--titlepad3">   OF AMERICA</a>
 intro:
   - excerpt: ""  
 feature_row:
