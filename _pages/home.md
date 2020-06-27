@@ -5,9 +5,13 @@ permalink: /home/
 header:
   overlay_filter: .85
   overlay_image: /assets/images/mm-home-page-feature.jpg
-excerpt: ""
+  actions:
+    - label: "Learn more about us"
+      url: "https://mdcdsa.org/chapterinfo/about-us"
+excerpt: >
+    <p style="font-size:160%;">This is a paragraph.</p>
 intro:
-  - excerpt: ''
+  - excerpt: ""  
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
