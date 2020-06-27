@@ -55,8 +55,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-<p style="font-size:35px; color:#ffffff"><span style="background-color: #DA3934">   WE ORGANIZE   </span></p>
+<a class="btn btn--padding">WE ORGANIZE...</a>  
 to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism.
 
 <a href="#" class="btn btn--primary">Learn more about us.</a>
