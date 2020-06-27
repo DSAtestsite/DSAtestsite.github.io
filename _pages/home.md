@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /home/
 header:
-  overlay_color: rgba(221, 220, 220, 0.95)
+  overlay_color: rgba(126, 124, 125, 0.85)
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "Learn more about us"
