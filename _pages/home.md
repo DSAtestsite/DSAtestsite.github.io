@@ -11,7 +11,7 @@ header:
       url: "https://mdcdsa.org/chapterinfo/about-us"
 excerpt: >
       <a class="btn btn--padding btn--padded">DEMOCRATIC SOCIALISTS</a>
-      <a style="font-size:200%">OF AMERICA</a>
+      <a class="btn btn--padded">DEMOCRATIC SOCIALISTS</a>
 intro:
   - excerpt: ""  
 feature_row:
