@@ -1,6 +1,8 @@
 ---
 title: >
-  METRO DC<b>DEMOCRATIC SOCIALISTS<b> OF AMERICA
+  METRO DC 
+  <b>DEMOCRATIC SOCIALISTS
+  <b> OF AMERICA
 layout: splash
 permalink: /home/
 header:
@@ -10,7 +12,7 @@ header:
     - label: "Learn more about us"
       url: "https://mdcdsa.org/chapterinfo/about-us"
 excerpt: >
-    <p style="font-size:160%;">This is a paragraph.</p>
+    <p style="font-size:160%;">METRO DC <b>DEMOCRATIC SOCIALISTS <b> OF AMERICA</p>
 intro:
   - excerpt: ""  
 feature_row:
