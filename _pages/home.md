@@ -12,7 +12,7 @@ header:
     - label: "Learn more about us"
       url: "https://mdcdsa.org/chapterinfo/about-us"
 excerpt: >
-    <p style="font-size:160%;">METRO DC <b>DEMOCRATIC SOCIALISTS <b> OF AMERICA</p>
+      <a class="btn btn--padding btn--padded">METRO DC</a>  
 intro:
   - excerpt: ""  
 feature_row:
