@@ -39,7 +39,8 @@
   (info, $info-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (padding, $dsa-red);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
@@ -94,4 +95,6 @@
   &--small {
     font-size: $type-size-7;
   }
+ 
 }
+
