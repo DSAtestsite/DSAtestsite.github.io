@@ -1,6 +1,6 @@
 ---
 title: Endorsements
-layout: single
+layout: splash-no-title
 permalink: /endorsements/
 header:
   overlay_color: "#000"
