@@ -8,7 +8,7 @@ header:
     - label: "Learn more about us"
       url: "https://mdcdsa.org/chapterinfo/about-us"
 excerpt: >
-      <a class="btn btn--titlepad1">METRO DC</a>
+      <p style="border:1px solid black;  background-color: lightblue;  padding-top: 50px;  padding-right: 30px;  padding-bottom: 50px;  padding-left: 80px;"> test </p>METRO DC</p>
       <a class="btn btn--padding btn--titlepad2">DEMOCRATIC SOCIALISTS</a>
       <a class="btn btn--inverse btn--titlepad3">OF AMERICA</a>
 intro:
