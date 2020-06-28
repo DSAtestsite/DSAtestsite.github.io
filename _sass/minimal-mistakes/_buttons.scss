@@ -93,33 +93,33 @@
   /*for title page/ */
   &--titlepad1 {
     font-family: $pridi;
-    font-size:200%;
+    font-size:180%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
     text-align: left;
-    margin-inline-start: auto;
+    margin-inline-start: 25%;
     padding: 0.1em .25em;
      
   }
   &--titlepad2 {
     font-family: $pridi;
-    font-size:200%;
+    font-size:180%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
     text-align: center;
-    margin-inline-start: auto;
+    margin-inline-start: 25%;
     padding: 0.1em .25em;
   }
   &--titlepad3 {
     font-family: $pridi;
-    font-size:200%;
+    font-size:180%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
     text-align: right;
-    margin-inline-start: auto;
+    margin-inline-start: 50%;
     padding: 0.1em .25em;
   }
 
