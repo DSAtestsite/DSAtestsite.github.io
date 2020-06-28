@@ -101,7 +101,8 @@
     margin-inline-start: 25%;
     padding: 0.1em .25em;
     background-color: #fff;
-     
+    font-weight: none;
+    border-radius: none;     
   }
   &--titlepad2 {
     font-family: $pridi;
@@ -112,8 +113,9 @@
     text-align: center;
     margin-inline-start: 25%;
     padding: 0.1em .25em;
-    background-color: $dsa-red;
-    color: #000;
+    background-color: #fff;
+    font-weight: none;
+    border-radius: none;
   }
   &--titlepad3 {
     font-family: $pridi;
@@ -125,6 +127,8 @@
     margin-inline-start: 50%;
     padding: 0.1em .25em;
     background-color: #fff;
+    font-weight: none;
+    border-radius: none;
   }
 
   /* extra large button */
