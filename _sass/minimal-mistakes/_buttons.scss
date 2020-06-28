@@ -82,6 +82,11 @@
     opacity: 0.65;
   }
   
+  /* new button design */
+  &--thick {
+   border: 3px solid #000000;
+   box-sizing: border-box;
+  } 
   /* for home page banner */
   &--padded {
     font-family: $pridi;
@@ -90,6 +95,7 @@
     cursor: not-allowed;
     box-shadow: none;
   }
+ 
   /*for title page/ */
   &--titlepad1 {
     font-size:200%;
