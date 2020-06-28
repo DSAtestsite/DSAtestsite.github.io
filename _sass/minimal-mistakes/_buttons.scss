@@ -98,7 +98,8 @@
     cursor: not-allowed;
     box-shadow: none;
     text-align: left;
-    margin-inline-start: 25%;
+    margin-inline-start: 0%;
+    margin-bottom: 55px;
     padding: 0.1em .25em;
     background-color: #fff;
     font-weight: none;
@@ -106,12 +107,13 @@
   }
   &--titlepad2 {
     font-family: $pridi;
-    font-size:200%;
+    font-size:180%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
     text-align: center;
-    margin-inline-start: 25%;
+    margin-inline-start: 5%;
+    margin-bottom: 55px;
     padding: 0.1em .25em;
     background-color: #fff;
     font-weight: none;
@@ -119,12 +121,12 @@
   }
   &--titlepad3 {
     font-family: $pridi;
-    font-size:200%;
+    font-size:180%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
     text-align: right;
-    margin-inline-start: 50%;
+    margin-inline-start: 5%;
     padding: 0.1em .25em;
     background-color: #fff;
     font-weight: none;
