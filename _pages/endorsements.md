@@ -1,5 +1,5 @@
 ---
-title: "ENDORSEMENTS"
+title: Endorsements
 layout: single
 permalink: /endorsements/
 header:
