@@ -100,6 +100,7 @@
     text-align: left;
     margin-inline-start: 25%;
     padding: 0.1em .25em;
+    background-color: #fff;
      
   }
   &--titlepad2 {
@@ -111,6 +112,7 @@
     text-align: center;
     margin-inline-start: 25%;
     padding: 0.1em .25em;
+    background-color: $dsa-red;
   }
   &--titlepad3 {
     font-family: $pridi;
@@ -121,6 +123,7 @@
     text-align: right;
     margin-inline-start: 50%;
     padding: 0.1em .25em;
+    background-color: #fff;
   }
 
   /* extra large button */
