@@ -59,7 +59,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 <a class="btn btn--padding btn--padded">WE ORGANIZE...</a>  
-to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism.
+to build workplace democracy, demand a right to housing, confront immigration detention profiteers, stand up to Amazon, ensure a just transition, and fight fascism. DSA’s membership is currently the largest in our history, with approximately 70,000 national members and growing every day. Our organization is ever-evolving to confront the challenges presented by capitalism, fascism, and systemic inequality.
 
 <a href="#" class="btn btn--inverse btn--thick">Learn more about us.</a>
 
