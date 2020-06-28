@@ -4,9 +4,6 @@ layout: splash
 permalink: /home/
 header:
   overlay_image: /assets/images/banner-image.png
-  actions:
-    - label: "Learn more about us"
-      url: "https://mdcdsa.org/chapterinfo/about-us"
 excerpt: >
       <a class="btn btn--inverse btn--titlepad1" style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">METRO DC</a>
       <a class="btn btn--inverse btn--titlepad2" style="color: #DA3934; font-weight:none; text-shadow:none; padding: .1em .25em;">DEMOCRATIC SOCIALISTS</a>
