@@ -8,9 +8,9 @@ header:
     - label: "Learn more about us"
       url: "https://mdcdsa.org/chapterinfo/about-us"
 excerpt: >
-      <a class="btn btn--inverse btn--titlepad1">METRO DC</a>
+      <p style="color:black"><a class="btn btn--inverse btn--titlepad1">METRO DC</a>
       <a class="btn btn--padding btn--titlepad2">DEMOCRATIC SOCIALISTS</a>
-      <a class="btn btn--inverse btn--titlepad3">OF AMERICA</a>
+      <a class="btn btn--inverse btn--titlepad3">OF AMERICA</a></p>
 intro:
   - excerpt: 'DSA’s membership is currently the largest in our history, with approximately 70,000 national members and growing every day. Our organization is ever-evolving to confront the challenges presented by capitalism, fascism, and systemic inequality.'  
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
