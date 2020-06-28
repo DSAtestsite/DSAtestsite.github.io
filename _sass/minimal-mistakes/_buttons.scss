@@ -98,6 +98,9 @@
     cursor: not-allowed;
     box-shadow: none;
     text-align: left;
+    margin-inline-start: auto;
+    padding: 0.1em .25em;
+     
   }
   &--titlepad2 {
     font-family: $pridi;
@@ -106,6 +109,8 @@
     cursor: not-allowed;
     box-shadow: none;
     text-align: center;
+    margin-inline-start: auto;
+    padding: 0.1em .25em;
   }
   &--titlepad3 {
     font-family: $pridi;
@@ -114,6 +119,8 @@
     cursor: not-allowed;
     box-shadow: none;
     text-align: right;
+    margin-inline-start: auto;
+    padding: 0.1em .25em;
   }
 
   /* extra large button */
