@@ -93,7 +93,7 @@
   /*for title page/ */
   &--titlepad1 {
     font-family: $pridi;
-    font-size:180%;
+    font-size:200%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
@@ -105,7 +105,7 @@
   }
   &--titlepad2 {
     font-family: $pridi;
-    font-size:180%;
+    font-size:200%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
@@ -113,10 +113,11 @@
     margin-inline-start: 25%;
     padding: 0.1em .25em;
     background-color: $dsa-red;
+    color: #000;
   }
   &--titlepad3 {
     font-family: $pridi;
-    font-size:180%;
+    font-size:200%;
     pointer-events: none;
     cursor: not-allowed;
     box-shadow: none;
