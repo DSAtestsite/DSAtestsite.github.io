@@ -12,7 +12,8 @@ excerpt: >
       <a class="btn btn--padding btn--titlepad2">DEMOCRATIC SOCIALISTS</a>
       <a class="btn btn--inverse btn--titlepad3">OF AMERICA</a>
 intro:
-  - excerpt: ""  
+  - excerpt: 'DSA’s membership is currently the largest in our history, with approximately 70,000 national members and growing every day. Our organization is ever-evolving to confront the challenges presented by capitalism, fascism, and systemic inequality.'  
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
