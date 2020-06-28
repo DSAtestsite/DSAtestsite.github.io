@@ -67,7 +67,7 @@ to build workplace democracy, demand a right to housing, confront immigration de
 <a href="#" class="btn btn--primary">Learn more about us.</a>
 
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row %}
 
