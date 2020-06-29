@@ -1,6 +1,6 @@
 ---
 title: >
-  <a class="btn btn--inverse btn--titlepad1" display=none style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">Endorsements</a>
+  <a class="btn btn--inverse btn--titlepad1" style="color: black; display=none font-weight:none; text-shadow:none; padding: .1em .25em;">Endorsements</a>
 layout: splash
 permalink: /endorsements/
 header:
