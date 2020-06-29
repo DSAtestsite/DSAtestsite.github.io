@@ -1,14 +1,14 @@
 ---
 title: >
-  <a class="btn btn--inverse btn--titlepad1" style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">ENDORSEMENTS</a>
+  <a class="btn btn--inverse btn--titlepad1" display=none style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">Endorsements</a>
 layout: splash-no-title
 permalink: /endorsements/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-excerpt: "We support candidates for public office who stand up to fascism, demand equal access to housing, and ensure a just transition. Below are candidates we have endorsed."
-feature_row2:
+excerpt: >
+  <a class="btn btn--inverse btn--titlepad1" display=none style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">ENDORSEMENTS</a>
   - image_path: /assets/images/janeese-social-teaser.png
     alt: "Picture of Janeese Lewis George"
     title: "Janeese Lewis George"
