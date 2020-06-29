@@ -1,5 +1,6 @@
 ---
-title: Endorsements
+title: >
+  <a class="btn btn--inverse btn--titlepad1" style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">ENDORSEMENTS</a>
 layout: splash-no-title
 permalink: /endorsements/
 header:
