@@ -1,7 +1,7 @@
 ---
 title: >
   <a class="btn btn--inverse btn--titlepad1" display=none style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">Endorsements</a>
-layout: splash-no-title
+layout: splash
 permalink: /endorsements/
 header:
   overlay_color: "#000"
@@ -9,6 +9,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
   <a class="btn btn--inverse btn--titlepad1" display=none style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">ENDORSEMENTS</a>
+feature_row2:
   - image_path: /assets/images/janeese-social-teaser.png
     alt: "Picture of Janeese Lewis George"
     title: "Janeese Lewis George"
