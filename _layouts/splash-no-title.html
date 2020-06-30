@@ -8,6 +8,12 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
+<div class="wrapper">
+  <h1 id="page-title" class="page__title" itemprop="headline" style="display:none;"></h1>
+</div>
+
+<div id="page-ttitle"
+
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
