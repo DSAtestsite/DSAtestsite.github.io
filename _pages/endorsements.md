@@ -1,7 +1,7 @@
 ---
 title: >
   <a class="btn btn--inverse btn--titlepad1" style="font-size: 20; color: black; display=none font-weight:none; text-shadow:none; padding: .1em .25em;">Endorsements</a>
-layout: splash
+layout: splash-no-title
 permalink: /endorsements/
 header:
   overlay_color: "#000"
