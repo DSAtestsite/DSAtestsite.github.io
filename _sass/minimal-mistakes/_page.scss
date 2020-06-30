@@ -258,7 +258,9 @@ body {
       }
     }
 
-    .page__title,
+    .page__title {
+	    display: none;
+	  }
     .page__meta,
     .page__lead,
     .btn {
