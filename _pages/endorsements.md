@@ -9,7 +9,6 @@ header:
   actions:
     - label: >
         <a class="btn btn--inverse btn--titlepad1" style="color: black; font-weight:none; text-shadow:none; padding: .1em .25em;">ENDORSEMENTS</a>
-      url: ""
 excerpt: "We elect heroes of the working class."
 feature_row2:
   - image_path: /assets/images/janeese-social-teaser.png
